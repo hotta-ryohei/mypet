@@ -18,4 +18,3 @@ PHP
 
 ##  データベース
 MySQL
-# fenrir.py
