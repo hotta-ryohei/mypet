@@ -8,14 +8,10 @@
     <body>
         <div>
             <?php include('./header.php') ?>
-            <div>
-                <p>ペットの写真</p>
-                <p>ひとこと</p>
-                <p>a</p>
-            </div>
-
         </div>
-        <a href="mypet.php">もっと見る</a>
+        <div>
+            contactpage
+        </div>
     </body>
     <?php include('./footer.php') ?>
 </html>
